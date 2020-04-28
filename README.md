@@ -36,7 +36,7 @@ Son olarak yapılan değişiklikleri görmek için lütfen [CHANGELOG](CHANGELOG
 
 Detaylar için [CONTRIBUTING](CONTRIBUTING.md) dosyasını inceleyiniz.
 
-### Güvenlik
+## Güvenlik
 
 Güvenlikle ilgili herhangi bir sorunla karşılaşırsanız lütfen ye@deligoz.me adresine e-posta gönderiniz.
 
