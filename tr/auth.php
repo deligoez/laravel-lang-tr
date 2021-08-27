@@ -14,6 +14,7 @@ return [
     */
 
     'failed'   => 'Girilen kimlik bilgileri kayıtlarımızla eşleşmiyor.',
+    'password' => 'Girilen şifre kayıtlarımızla eşleşmiyor'
     'throttle' => 'Çok fazla giriş denemesi. :seconds saniye sonra lütfen tekrar deneyin.',
 
 ];
