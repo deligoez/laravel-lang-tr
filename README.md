@@ -1,3 +1,6 @@
+> ⚠️ **Bu proje artık aktif olarak geliştirilmemektedir.**
+> Bu paket yalnızca Laravel 7 için hazırlanmıştır. Güncel Laravel sürümleri için [Laravel Lang](https://github.com/Laravel-Lang/lang) projesini kullanmanızı öneririz.
+
 # Laravel 7 Türkçe Dil Dosyaları
 
 ## Kurulum
